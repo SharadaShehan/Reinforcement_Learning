@@ -1,4 +1,4 @@
-### Python 3.9 is required
+### Python 3.9.0 is required
 
 ### Acivate a virtual environment
 ```

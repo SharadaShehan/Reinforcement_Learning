@@ -5,7 +5,7 @@ import random
 def main():
 
     # create Taxi environment
-    env = gym.make('Taxi-v3', render_mode='ansi')
+    env = gym.make('Taxi-v3', render_mode='human')
 
     # initialize q-table
     state_size = env.observation_space.n
